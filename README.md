@@ -7,6 +7,7 @@
 * [Doom Emacs](https://github.com/doomemacs/doomemacs)
 * [Doom Emacs Config](https://tecosaur.github.io/emacs-config/config.html)
 * [Doom Emacs Config](https://abdelhakbougouffa.pro/posts/config/)
+* [The Ultimate Doom Emacs Cheatsheet](https://naghdbishi.ir/Doom-Emacs-Cheat-Sheet/README.html)
 * [Mastering Emacs in One Year Guide](https://github.com/redguardtoo/mastering-emacs-in-one-year-guide)
 
 ### Vim
