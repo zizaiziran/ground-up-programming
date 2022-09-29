@@ -25,3 +25,5 @@
 * [html best practices](https://github.com/hail2u/html-best-practices)
 * [VueJs](https://vuejs.org/)
 * [SvelteJs](https://svelte.dev/)
+* [JavaScript 入门教程](https://wangdoc.com/javascript/)
+* [ES6 入门教程](https://wangdoc.com/es6/)
